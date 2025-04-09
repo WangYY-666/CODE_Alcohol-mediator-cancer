@@ -1,0 +1,6 @@
+This part of the code is the same as the file (4. HNSC)
+01.load TCGA.R
+02.KM.R
+03.Diff genes.R
+04.estimate.R
+05.pathway.R

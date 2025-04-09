@@ -1,0 +1,14 @@
+group	id
+Alcohol	ukb-b-5359
+Never drink alcohol	ukb-a-226
+Former alcohol drinker	ukb-b-12654
+Former alcohol drinker	ukb-a-352
+Former alcohol drinker	ukb-d-20406
+Alcohol consumption	ukb-b-10923
+Alcohol consumption	ieu-a-1283
+Alcohol consumption	ieu-b-4833
+Alcohol consumption	ieu-b-4834
+Alcohol abuse	finn-b-F5_ALCOHOL_DEPENDENCE
+Alcohol abuse	finn-b-KRA_PSY_ALCOH_EXMORE
+Alcohol abuse	finn-b-KRA_PSY_ALCOH
+Alcohol abuse	ukb-d-20415
